@@ -1,5 +1,7 @@
 ##### Principal Boilerplate para projetos NextJS, styled-components, storybook.
 
+Configurado com preferências pessoais, utilizando theme do React Avançado.
+
 ###### global.ts & theme.ts
 
 
